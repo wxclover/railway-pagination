@@ -1,8 +1,8 @@
 {
-  "author": "Anatoliy Chakkaev <rpm1602@gmail.com>",
-  "name": "railway-pagination",
-  "description": "Pagination plugin for RailwayJS MVC framework",
-  "version": "0.0.1",
+  "author": "Xinchao Wang <wxclover@gmail.com>",
+  "name": "co-pagination",
+  "description": "Pagination plugin for CompoundJs MVC framework",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
@@ -11,7 +11,7 @@
     "test": "nodeunit test/*_test.js"
   },
   "engines": {
-    "node": ">= 0.4.0"
+    "node": ">= 0.10.0"
   },
   "dependencies": {},
   "devDependencies": {
